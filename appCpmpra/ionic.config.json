@@ -1,5 +1,6 @@
 {
   "name": "appCpmpra",
+  "app_id": "app.appCompra.mateus-h",
   "integrations": {
     "cordova": {}
   },
